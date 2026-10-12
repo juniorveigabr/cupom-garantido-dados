@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Se usar estes dados, cite a fonte com o link."
+type: dataset
+title: "Cupons de desconto no Brasil em números"
+abstract: "Cupons de desconto ativos em lojas online brasileiras, lojas acompanhadas, cupons confirmados em duas fontes ou mais, por categoria e por tipo de cupom. Atualizado toda semana."
+authors:
+  - name: "Cupom Garantido"
+    website: "https://cupomgarantido.com.br/"
+url: "https://cupomgarantido.com.br/numeros/"
+repository-code: "https://github.com/juniorveigabr/cupom-garantido-dados"
+keywords:
+  - cupons de desconto
+  - comércio eletrônico
+  - Brasil
+  - dados abertos
