@@ -2,27 +2,27 @@
  "fonte": "Cupom Garantido",
  "pagina": "https://cupomgarantido.com.br/numeros/",
  "comoContamos": "Confirmado = o mesmo código encontrado em duas fontes ou mais. O site não testa o cupom no carrinho da loja.",
- "em": "2026-11-09T18:17:01.824Z",
- "cupons": 2520,
- "lojas": 145,
- "lojasComCupom": 113,
- "confirmados": 859,
- "confirmadosEm3": 298,
- "pctConfirmados": 34,
- "novos7": 266,
- "expirados30": 377,
+ "em": "2026-11-16T18:17:01.183Z",
+ "cupons": 2579,
+ "lojas": 147,
+ "lojasComCupom": 116,
+ "confirmados": 853,
+ "confirmadosEm3": 272,
+ "pctConfirmados": 33,
+ "novos7": 222,
+ "expirados30": 376,
  "expiradosNoTeto": true,
- "retirados": 24,
+ "retirados": 22,
  "tipos": [
   {
    "chave": "pct",
    "nome": "Desconto em porcentagem",
-   "cupons": 1803
+   "cupons": 1845
   },
   {
    "chave": "frete",
    "nome": "Frete grátis",
-   "cupons": 81
+   "cupons": 85
   },
   {
    "chave": "primeira",
@@ -32,7 +32,7 @@
   {
    "chave": "app",
    "nome": "Para usar no aplicativo",
-   "cupons": 153
+   "cupons": 152
   }
  ],
  "categorias": [
@@ -40,50 +40,50 @@
    "nome": "Varejo",
    "slug": "varejo",
    "lojas": 18,
-   "cupons": 661,
-   "confirmados": 179
-  },
-  {
-   "nome": "Moda e Acessórios",
-   "slug": "moda-e-acessorios",
-   "lojas": 20,
-   "cupons": 351,
-   "confirmados": 152
+   "cupons": 684,
+   "confirmados": 192
   },
   {
    "nome": "Perfumaria e Beleza",
    "slug": "perfumaria-e-beleza",
-   "lojas": 10,
-   "cupons": 351,
-   "confirmados": 107
+   "lojas": 11,
+   "cupons": 362,
+   "confirmados": 106
+  },
+  {
+   "nome": "Moda e Acessórios",
+   "slug": "moda-e-acessorios",
+   "lojas": 21,
+   "cupons": 353,
+   "confirmados": 149
   },
   {
    "nome": "Farmácias e Drogarias",
    "slug": "farmacias-e-drogarias",
    "lojas": 8,
-   "cupons": 200,
+   "cupons": 197,
    "confirmados": 79
   },
   {
    "nome": "Esporte e Moda Esportiva",
    "slug": "esporte-e-moda-esportiva",
    "lojas": 8,
-   "cupons": 167,
-   "confirmados": 97
+   "cupons": 168,
+   "confirmados": 86
   },
   {
    "nome": "Lojas Internacionais",
    "slug": "lojas-internacionais",
    "lojas": 2,
-   "cupons": 93,
-   "confirmados": 37
+   "cupons": 111,
+   "confirmados": 30
   },
   {
    "nome": "Lojas de Fábrica ou de Marca",
    "slug": "lojas-de-fabrica-ou-de-marca",
    "lojas": 2,
-   "cupons": 88,
-   "confirmados": 35
+   "cupons": 92,
+   "confirmados": 36
   },
   {
    "nome": "Moda Feminina",
@@ -103,15 +103,15 @@
    "nome": "Petshops e Animais",
    "slug": "petshops-e-animais",
    "lojas": 2,
-   "cupons": 55,
-   "confirmados": 19
+   "cupons": 57,
+   "confirmados": 20
   },
   {
-   "nome": "Máquinas e Ferramentas",
-   "slug": "maquinas-e-ferramentas",
-   "lojas": 3,
+   "nome": "Futebol, Camisas e Chuteiras",
+   "slug": "futebol-camisas-e-chuteiras",
+   "lojas": 1,
    "cupons": 51,
-   "confirmados": 17
+   "confirmados": 25
   },
   {
    "nome": "Passagem de Ônibus",
@@ -121,11 +121,11 @@
    "confirmados": 21
   },
   {
-   "nome": "Futebol, Camisas e Chuteiras",
-   "slug": "futebol-camisas-e-chuteiras",
-   "lojas": 1,
-   "cupons": 49,
-   "confirmados": 22
+   "nome": "Máquinas e Ferramentas",
+   "slug": "maquinas-e-ferramentas",
+   "lojas": 3,
+   "cupons": 50,
+   "confirmados": 15
   },
   {
    "nome": "Maquiagem",
@@ -138,35 +138,28 @@
    "nome": "Moda Masculina",
    "slug": "moda-masculina",
    "lojas": 1,
-   "cupons": 36,
-   "confirmados": 15
+   "cupons": 35,
+   "confirmados": 16
   },
   {
    "nome": "Presentes Criativos",
    "slug": "presentes-criativos",
    "lojas": 1,
-   "cupons": 32,
+   "cupons": 33,
    "confirmados": 4
   },
   {
    "nome": "Informática e Acessórios",
    "slug": "informatica-e-acessorios",
-   "lojas": 2,
+   "lojas": 3,
    "cupons": 29,
-   "confirmados": 11
-  },
-  {
-   "nome": "Móveis e Ambientes",
-   "slug": "moveis-e-ambientes",
-   "lojas": 7,
-   "cupons": 24,
-   "confirmados": 0
+   "confirmados": 10
   },
   {
    "nome": "Aluguel de Carros",
    "slug": "aluguel-de-carros",
    "lojas": 2,
-   "cupons": 19,
+   "cupons": 23,
    "confirmados": 0
   },
   {
@@ -177,9 +170,16 @@
    "confirmados": 1
   },
   {
+   "nome": "Móveis e Ambientes",
+   "slug": "moveis-e-ambientes",
+   "lojas": 7,
+   "cupons": 19,
+   "confirmados": 0
+  },
+  {
    "nome": "Alimentos e Bebidas",
    "slug": "alimentos-e-bebidas",
-   "lojas": 4,
+   "lojas": 3,
    "cupons": 11,
    "confirmados": 0
   },
@@ -226,6 +226,13 @@
    "confirmados": 0
   },
   {
+   "nome": "Outros",
+   "slug": "outros",
+   "lojas": 2,
+   "cupons": 3,
+   "confirmados": 0
+  },
+  {
    "nome": "Automotivo",
    "slug": "automotivo",
    "lojas": 2,
@@ -235,13 +242,6 @@
   {
    "nome": "Livros e Papelaria",
    "slug": "livros-e-papelaria",
-   "lojas": 1,
-   "cupons": 2,
-   "confirmados": 0
-  },
-  {
-   "nome": "Outros",
-   "slug": "outros",
    "lojas": 1,
    "cupons": 2,
    "confirmados": 0
@@ -258,50 +258,50 @@
   {
    "nome": "Mercado Livre",
    "url": "https://cupomgarantido.com.br/cupom-desconto-mercado-livre/",
-   "cupons": 174,
-   "confirmados": 39
+   "cupons": 188,
+   "confirmados": 51
   },
   {
    "nome": "Magalu",
    "url": "https://cupomgarantido.com.br/cupom-desconto-magazine-luiza/",
-   "cupons": 93,
-   "confirmados": 34
-  },
-  {
-   "nome": "Amazon",
-   "url": "https://cupomgarantido.com.br/cupom-desconto-amazon-brasil/",
-   "cupons": 89,
-   "confirmados": 15
-  },
-  {
-   "nome": "Beleza na Web",
-   "url": "https://cupomgarantido.com.br/cupom-desconto-beleza-na-web/",
-   "cupons": 83,
-   "confirmados": 12
-  },
-  {
-   "nome": "Época Cosméticos",
-   "url": "https://cupomgarantido.com.br/cupom-desconto-epoca-cosmeticos/",
-   "cupons": 78,
-   "confirmados": 13
+   "cupons": 99,
+   "confirmados": 33
   },
   {
    "nome": "AliExpress",
    "url": "https://cupomgarantido.com.br/cupom-desconto-aliexpress/",
-   "cupons": 75,
-   "confirmados": 36
+   "cupons": 93,
+   "confirmados": 29
+  },
+  {
+   "nome": "Beleza na Web",
+   "url": "https://cupomgarantido.com.br/cupom-desconto-beleza-na-web/",
+   "cupons": 88,
+   "confirmados": 11
+  },
+  {
+   "nome": "Amazon",
+   "url": "https://cupomgarantido.com.br/cupom-desconto-amazon-brasil/",
+   "cupons": 86,
+   "confirmados": 18
+  },
+  {
+   "nome": "Época Cosméticos",
+   "url": "https://cupomgarantido.com.br/cupom-desconto-epoca-cosmeticos/",
+   "cupons": 80,
+   "confirmados": 13
   },
   {
    "nome": "Fast Shop",
    "url": "https://cupomgarantido.com.br/cupom-desconto-fast-shop/",
-   "cupons": 69,
+   "cupons": 70,
    "confirmados": 37
   },
   {
    "nome": "Netshoes",
    "url": "https://cupomgarantido.com.br/cupom-desconto-netshoes/",
-   "cupons": 67,
-   "confirmados": 40
+   "cupons": 68,
+   "confirmados": 30
   },
   {
    "nome": "Boticário",
@@ -515,9 +515,51 @@
   },
   {
    "dia": "2026-11-09",
-   "cupons": 2520,
+   "cupons": 2532,
+   "confirmados": 864,
+   "lojas": 115
+  },
+  {
+   "dia": "2026-11-10",
+   "cupons": 2567,
+   "confirmados": 858,
+   "lojas": 114
+  },
+  {
+   "dia": "2026-11-11",
+   "cupons": 2594,
+   "confirmados": 868,
+   "lojas": 116
+  },
+  {
+   "dia": "2026-11-12",
+   "cupons": 2593,
+   "confirmados": 860,
+   "lojas": 116
+  },
+  {
+   "dia": "2026-11-13",
+   "cupons": 2583,
    "confirmados": 859,
-   "lojas": 113
+   "lojas": 116
+  },
+  {
+   "dia": "2026-11-14",
+   "cupons": 2578,
+   "confirmados": 849,
+   "lojas": 115
+  },
+  {
+   "dia": "2026-11-15",
+   "cupons": 2583,
+   "confirmados": 851,
+   "lojas": 115
+  },
+  {
+   "dia": "2026-11-16",
+   "cupons": 2579,
+   "confirmados": 853,
+   "lojas": 116
   }
  ]
 }
